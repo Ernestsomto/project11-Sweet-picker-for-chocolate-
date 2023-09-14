@@ -116,4 +116,4 @@ const selectAgain = () => {
 
 
 //starts the sweetpicker, will be adding some html and css to fire the function.
-initSweet();
+//initSweet(); commented out the sweetpicker starter for control
